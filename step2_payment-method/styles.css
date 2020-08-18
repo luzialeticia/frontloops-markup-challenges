@@ -13,10 +13,6 @@ img {
     width: 8%;
 }
 
-ul {
-    list-style: none;
-}
-
 .container, .box{
     display: flex;
     flex-direction: column;
