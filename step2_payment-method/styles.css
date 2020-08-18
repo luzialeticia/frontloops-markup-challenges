@@ -18,8 +18,8 @@ img {
 }
 
 table {
-    background-color: red;
     padding-left: 1.3rem;
+    border-collapse: collapse;
 }
 
 td {
