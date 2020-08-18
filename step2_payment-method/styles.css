@@ -9,8 +9,22 @@ body {
     padding: 0;
 }
 
+p {
+    text-transform: uppercase;
+}
+
 img {
     width: 8%;
+}
+
+table {
+    background-color: red;
+    padding-left: 1.3rem;
+}
+
+td {
+    height: 50px;
+    border: 1px solid grey;
 }
 
 .container, .box{
@@ -31,4 +45,5 @@ img {
     height: 330px;
     background-color: white;
     border-radius: 3px;
+    font-family: 'Roboto', serfi;
 }
