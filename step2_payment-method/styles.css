@@ -18,13 +18,15 @@ img {
 }
 
 table {
-    padding-left: 1.3rem;
     border-collapse: collapse;
 }
 
 td {
     height: 50px;
     border: 1px solid grey;
+    border-right: none;
+    border-left: none;
+    padding-left: 1.9rem;
 }
 
 .container, .box{
