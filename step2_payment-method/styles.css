@@ -44,7 +44,7 @@ td {
 .container {
     width: 100vw;
     height: 100vh;
-    background-image: url(/step2_payment-method/img/background.jpg)
+    background-image: url(img/background.jpg);
 }
 
 .box {
@@ -72,6 +72,14 @@ td {
     background-color: rgb(241, 241, 241);
 }
 
+.item-card > a:active {
+    color: rgb(170, 167, 167);
+}
+
+.item-card a:visited {
+    font: bold;
+}
+
 .visa {
     top: 90px;
     border-top: 1px solid black;
@@ -79,14 +87,14 @@ td {
 }
 
 .mastercard {
-    top: 136px;
+    top: 135px;
     border-top: 1px solid black;
     border-bottom: 1px solid black;
     left: 0;
 }
 
 .maestro {
-    top: 180px;
+    top: 179px;
     border-top: 1px solid black;
     border-bottom: 1px solid black;
     left: 0;
