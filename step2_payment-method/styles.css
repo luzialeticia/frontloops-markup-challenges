@@ -19,6 +19,7 @@ img {
 
 table {
     border-collapse: collapse;
+    position: absolute;
 }
 
 td {
@@ -45,11 +46,15 @@ td {
 .box {
     width: 18rem;
     height: 18rem;
+    position: relative;
     background-color: white;
     border-radius: 3px;
     font-family: 'Roboto', serfi;
 }
 
 .checkout {
-    
+    background-color: rgb(91, 141, 218);
+    position: absolute;
+    width: 100%;
+    margin-bottom: 0;
 }
