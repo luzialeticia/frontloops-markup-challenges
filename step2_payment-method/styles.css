@@ -21,19 +21,6 @@ a {
     text-decoration: none;
 }
 
-/*table {
-    border-collapse: collapse;
-    position: absolute;
-}
-
-td {
-    height: 50px;
-    border: 1px solid grey;
-    border-right: none;
-    border-left: none;
-    padding-left: 1.9rem;
-}*/
-
 .container {
     display: flex;
     flex-direction: column;
@@ -98,7 +85,6 @@ td {
     border-top: 1px solid black;
     border-bottom: 1px solid black;
     left: 0;
-    /*bottom: 500px;*/
 }
 
 .checkout {
