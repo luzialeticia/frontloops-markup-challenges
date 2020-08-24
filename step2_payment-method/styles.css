@@ -92,6 +92,7 @@ a {
 }
 
 .checkout {
+    position: absolute;
     background-color: rgb(91, 141, 218);
     text-align: center;
     padding: 10px 0 10px 0;
