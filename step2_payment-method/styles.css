@@ -70,10 +70,17 @@ a {
 
 .visa {
     top: 95px;
-    border-top: 1px solid black;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
     border-bottom: 1px solid black;
     left: 0;
 }
+
+/*hr {
+    border: 0;
+    height: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}*/
 
 .mastercard {
     top: 144px;
@@ -91,6 +98,7 @@ a {
 .checkout {
     background-color: rgb(91, 141, 218);
     text-align: center;
+    padding-top: 2px;
     position: absolute;
     width: 100%;
     height: 45px;
