@@ -58,6 +58,10 @@ a {
     padding-bottom: 15px;
 }
 
+.item-card img {
+    width: 12%;
+}
+
 .item-card:hover {
     background-color: rgb(241, 241, 241);
 }
