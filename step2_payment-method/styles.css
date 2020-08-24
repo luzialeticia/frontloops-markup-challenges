@@ -70,8 +70,8 @@ a {
 
 .visa {
     top: 95px;
-    border-top: 1px solid rgba(0, 0, 0, 0.1);
-    border-bottom: 1px solid black;
+    border-top: 1px solid rgba(230, 230, 230, 1.0);
+    border-bottom: 1px solid rgba(230, 230, 230, 1.0);
     left: 0;
 }
 
@@ -84,14 +84,14 @@ a {
 
 .mastercard {
     top: 144px;
-    border-top: 1px solid black;
-    border-bottom: 1px solid black;
+    border-top: 1px solid rgba(230, 230, 230, 1.0)
+    border-bottom: 1px solid rgba(230, 230, 230, 1.0);
     left: 0;
 }
 
 .maestro {
-    top: 193px; /* 188*/
-    border-top: 1px solid black;
+    top: 193px;
+    border-top: 1px solid rgba(230, 230, 230, 1.0);
     left: 0;
 }
 
