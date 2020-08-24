@@ -60,6 +60,7 @@ a {
 
 .item-card img {
     width: 12%;
+    vertical-align: middle;
 }
 
 .item-card:hover {
@@ -72,24 +73,22 @@ a {
     margin-left: 15px;
 }
 
-.visa {
-    top: 95px;
+.visa, .mastercard, .maestro {
     border-top: 1px solid rgba(230, 230, 230, 1.0);
     border-bottom: 1px solid rgba(230, 230, 230, 1.0);
     left: 0;
+}
+
+.visa {
+    top: 95px;
 }
 
 .mastercard {
     top: 144px;
-    border-top: 1px solid rgba(230, 230, 230, 1.0);
-    border-bottom: 1px solid rgba(230, 230, 230, 1.0);
-    left: 0;
 }
 
 .maestro {
     top: 193px;
-    border-top: 1px solid rgba(230, 230, 230, 1.0);
-    left: 0;
 }
 
 .checkout {
