@@ -110,6 +110,11 @@ a {
     height: 43px;
 }
 
+.link-next {
+    margin: 10px 0 10px 0;
+}
+
 .checkout img {
+    width: 5%;
     vertical-align: middle;
 }
