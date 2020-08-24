@@ -108,3 +108,7 @@ a {
 .checkout:active {
     height: 43px;
 }
+
+.checkout img {
+    vertical-align: middle;
+}
