@@ -95,7 +95,9 @@ a {
     position: absolute;
     background-color: rgb(91, 141, 218);
     text-align: center;
-    padding: 10px 0 10px 0;
+    align-items: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
     position: absolute;
     width: 100%;
     height: 45px;
@@ -110,9 +112,9 @@ a {
     height: 43px;
 }
 
-.link-next {
+/*.link-next {
     margin: 10px 0 10px 0;
-}
+}*/
 
 .checkout img {
     width: 5%;
