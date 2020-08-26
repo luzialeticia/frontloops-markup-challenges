@@ -48,6 +48,11 @@ a {
     border-radius: 3px;
 }
 
+.title p {
+    font-size: 1.1rem;
+    letter-spacing: 1.5px;
+}
+
 .item-card {
     position: absolute;
     height: 50px;
