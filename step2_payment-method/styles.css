@@ -32,9 +32,6 @@ svg {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-}
-
-.container {
     width: 100vw;
     height: 100vh;
     background-image: url(img/background.jpg);
@@ -88,11 +85,6 @@ svg {
     color: #000;
 }
 
-.pic-link {
-    position: absolute;
-    right: 1rem;
-}
-
 .visa, .mastercard, .maestro {
     border-top: 1px solid rgba(230, 230, 230, 1.0);
     border-bottom: 1px solid rgba(230, 230, 230, 1.0);
@@ -109,6 +101,11 @@ svg {
 
 .maestro {
     top: 193px;
+}
+
+.pic-link {
+    position: absolute;
+    right: 1rem;
 }
 
 .checkout {
