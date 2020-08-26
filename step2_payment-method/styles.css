@@ -20,6 +20,7 @@ img {
 
 a {
     text-decoration: none;
+    cursor: pointer;
 }
 
 .container {
@@ -112,9 +113,9 @@ a {
     height: 43px;
 }
 
-/*.link-next {
-    margin: 10px 0 10px 0;
-}*/
+.checkout p {
+    margin-top: 6px;
+}
 
 .checkout img {
     width: 5%;
