@@ -23,6 +23,10 @@ a {
     cursor: pointer;
 }
 
+svg {
+    vertical-align: middle;
+}
+
 .container {
     display: flex;
     flex-direction: column;
@@ -83,6 +87,10 @@ a {
     color: #000;
 }
 
+.pic-link {
+    margin-right: 0;
+}
+
 .visa, .mastercard, .maestro {
     border-top: 1px solid rgba(230, 230, 230, 1.0);
     border-bottom: 1px solid rgba(230, 230, 230, 1.0);
@@ -127,8 +135,4 @@ a {
     font-size: .7rem;
     letter-spacing: 1.5px;
     font-weight: normal;
-}
-
-svg {
-    vertical-align: middle;
 }
