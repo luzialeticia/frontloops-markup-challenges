@@ -123,13 +123,12 @@ a {
 }
 
 .checkout p {
-    margin-top: 6px;
-    font-size: .8rem;
+    margin-top: 2px;
+    font-size: .7rem;
     letter-spacing: 1.5px;
     font-weight: normal;
 }
 
-.checkout img {
-    width: 5%;
+svg {
     vertical-align: middle;
 }
